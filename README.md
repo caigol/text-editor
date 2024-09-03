@@ -1,4 +1,5 @@
 <h1 align="center" style="font-weight: bold;">Text Editor ✍</h1>
+<h2> Teste Caique </h2>
 
 ![react](https://img.shields.io/badge/React-blue?style=flat&logo=react)
 ![Underdevelopment](https://img.shields.io/badge/GraphQL-e10098?style=flat&logo=graphql)
